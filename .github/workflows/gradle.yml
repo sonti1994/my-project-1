@@ -47,4 +47,4 @@ jobs:
         uses: gradle/actions/setup-gradle@v4
 
       - name: Submit dependency graph
-        uses: gradle/actions/dependency-
+        uses: gradle/actions/dependency-submission@v4
